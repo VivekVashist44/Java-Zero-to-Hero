@@ -148,3 +148,4 @@ public class Student{
 // Commit on 2025-06-02T10:07:00 - Fix typo in README
 // Commit on 2025-03-06T13:42:03 - Update docs
 // Commit on 2025-03-06T08:15:22 - Refactor code
+// Commit on 2025-02-04T14:42:39 - Code cleanup
