@@ -439,3 +439,4 @@ public class Student{
 // Commit on 2025-07-06T13:21:26 - Add logging
 // Commit on 2025-07-06T17:48:33 - Add logging
 // Commit on 2025-07-06T09:54:39 - Code cleanup
+// Commit on 2025-02-12T19:02:21 - Optimize SQL query
