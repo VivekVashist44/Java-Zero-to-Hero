@@ -453,3 +453,4 @@ public class Student{
 // Commit on 2025-04-14T19:12:17 - Improve performance
 // Commit on 2025-03-03T13:18:39 - Refactor code
 // Commit on 2025-03-03T17:47:22 - Code cleanup
+// Commit on 2025-03-03T20:17:24 - Add logging
