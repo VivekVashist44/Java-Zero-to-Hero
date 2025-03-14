@@ -357,3 +357,4 @@ public class Student{
 // Commit on 2025-03-14T16:23:14 - Refactor code
 // Commit on 2025-03-14T18:59:03 - Add logging
 // Commit on 2025-03-14T19:20:51 - Code cleanup
+// Commit on 2025-03-14T20:55:27 - Fix typo in README
