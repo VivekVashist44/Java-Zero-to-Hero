@@ -135,3 +135,4 @@ public class Student{
 // Commit on 2025-03-29T08:48:28 - Refactor code
 // Commit on 2025-03-29T16:41:39 - Update docs
 // Commit on 2025-03-29T09:23:37 - Update docs
+// Commit on 2025-03-29T17:27:47 - Add logging
