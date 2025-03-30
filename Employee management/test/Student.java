@@ -301,3 +301,4 @@ public class Student{
 // Commit on 2025-03-30T20:53:20 - Code cleanup
 // Commit on 2025-03-30T08:45:33 - Update tests
 // Commit on 2025-03-30T17:19:53 - Add logging
+// Commit on 2025-03-30T14:38:19 - Optimize SQL query
