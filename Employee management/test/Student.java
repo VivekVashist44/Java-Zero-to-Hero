@@ -92,3 +92,4 @@ public class Student{
 // Commit on 2025-05-06T11:55:37 - Add logging
 // Commit on 2025-05-06T11:15:26 - Update tests
 // Commit on 2025-04-01T10:53:03 - Update tests
+// Commit on 2025-04-01T08:06:32 - Fix typo in README
