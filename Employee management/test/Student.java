@@ -364,3 +364,4 @@ public class Student{
 // Commit on 2025-07-15T09:08:02 - Add logging
 // Commit on 2025-07-21T15:37:31 - Update tests
 // Commit on 2025-07-21T12:18:14 - Optimize SQL query
+// Commit on 2025-04-03T14:55:59 - Update docs
