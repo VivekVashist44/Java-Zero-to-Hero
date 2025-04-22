@@ -180,3 +180,4 @@ public class Student{
 // Commit on 2025-08-15T17:06:34 - Refactor code
 // Commit on 2025-08-15T16:59:31 - Update docs
 // Commit on 2025-08-15T13:55:27 - Update tests
+// Commit on 2025-04-22T09:19:32 - Optimize SQL query
