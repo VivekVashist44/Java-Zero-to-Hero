@@ -90,3 +90,4 @@ public class Student{
 // Commit on 2025-05-06T15:09:48 - Add logging
 // Commit on 2025-05-06T18:25:28 - Refactor code
 // Commit on 2025-05-06T11:55:37 - Add logging
+// Commit on 2025-05-06T11:15:26 - Update tests
