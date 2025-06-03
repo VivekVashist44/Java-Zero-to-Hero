@@ -61,3 +61,4 @@ public class Student{
 // Commit on 2025-06-03T15:53:23 - Add logging
 // Commit on 2025-06-03T15:17:18 - Update docs
 // Commit on 2025-06-03T09:25:37 - Code cleanup
+// Commit on 2025-06-03T20:22:22 - Refactor code
