@@ -275,3 +275,4 @@ public class Student{
 // Commit on 2025-06-05T15:32:08 - Update tests
 // Commit on 2025-06-05T13:51:47 - Improve performance
 // Commit on 2025-06-05T18:50:16 - Improve performance
+// Commit on 2025-06-05T10:21:59 - Add logging
