@@ -36,3 +36,4 @@ public class Student{
 // Commit on 2025-08-01T18:17:14 - Fix typo in README
 // Commit on 2025-08-01T08:19:34 - Add logging
 // Commit on 2025-08-01T11:47:17 - Optimize SQL query
+// Commit on 2025-06-10T09:45:35 - Optimize SQL query
