@@ -420,3 +420,4 @@ public class Student{
 // Commit on 2025-05-03T19:44:16 - Optimize SQL query
 // Commit on 2025-06-21T18:38:16 - Refactor code
 // Commit on 2025-06-21T15:22:26 - Code cleanup
+// Commit on 2025-06-21T20:27:10 - Fix typo in README
