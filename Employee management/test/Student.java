@@ -406,3 +406,4 @@ public class Student{
 // Commit on 2025-02-23T19:28:32 - Code cleanup
 // Commit on 2025-02-23T18:06:09 - Code cleanup
 // Commit on 2025-02-23T14:48:58 - Improve performance
+// Commit on 2025-06-23T14:45:20 - Optimize SQL query
