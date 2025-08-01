@@ -34,3 +34,4 @@ public class Student{
 // Commit on 2025-08-14T12:22:25 - Fix typo in README
 // Commit on 2025-08-14T14:08:00 - Fix typo in README
 // Commit on 2025-08-01T18:17:14 - Fix typo in README
+// Commit on 2025-08-01T08:19:34 - Add logging
