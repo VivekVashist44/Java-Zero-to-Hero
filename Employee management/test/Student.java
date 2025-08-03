@@ -246,3 +246,4 @@ public class Student{
 // Commit on 2025-07-20T10:00:18 - Update tests
 // Commit on 2025-07-20T10:10:21 - Code cleanup
 // Commit on 2025-08-03T10:18:33 - Refactor code
+// Commit on 2025-08-03T10:11:06 - Update docs
