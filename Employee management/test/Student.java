@@ -98,3 +98,4 @@ public class Student{
 // Commit on 2025-03-31T19:47:48 - Add logging
 // Commit on 2025-02-24T10:39:41 - Refactor code
 // Commit on 2025-08-07T18:56:10 - Update docs
+// Commit on 2025-08-07T19:53:16 - Optimize SQL query
