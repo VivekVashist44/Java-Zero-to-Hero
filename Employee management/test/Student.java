@@ -445,3 +445,4 @@ public class Student{
 // Commit on 2025-06-19T13:20:18 - Fix typo in README
 // Commit on 2025-08-18T17:39:12 - Optimize SQL query
 // Commit on 2025-08-18T10:54:12 - Refactor code
+// Commit on 2025-08-18T13:14:27 - Optimize SQL query
