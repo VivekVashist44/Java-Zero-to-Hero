@@ -4,7 +4,6 @@ public class Test{
         st.name="Vivek";
         st.id=1;
         st.stndrd="7th";
-        st.printvl();
         // st.printvl(name,id,stndrd);
     }
 }
