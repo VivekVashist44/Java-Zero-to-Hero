@@ -127,7 +127,7 @@ public class Arrays1{
 
         if (matrix[0][0] == 0) {
             for (int i = 0; i < matrix[0].length; i++) {
-                matrix[0][i] = 0;
+                matrix[0][i] = 0; 
             }
         }
         if (col0 == 0) {
